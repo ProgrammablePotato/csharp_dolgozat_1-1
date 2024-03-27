@@ -1,0 +1,14 @@
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\bin\Debug\net6.0\Mihelik Tamás Doga.exe
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\bin\Debug\net6.0\Mihelik Tamás Doga.deps.json
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\bin\Debug\net6.0\Mihelik Tamás Doga.runtimeconfig.json
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\bin\Debug\net6.0\Mihelik Tamás Doga.dll
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\bin\Debug\net6.0\Mihelik Tamás Doga.pdb
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.AssemblyInfoInputs.cache
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.AssemblyInfo.cs
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.csproj.CoreCompileInputs.cache
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.dll
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\refint\Mihelik Tamás Doga.dll
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.pdb
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\Mihelik Tamás Doga.genruntimeconfig.cache
+C:\Users\Diak\dev\mt\cs\Mihelik Tamás Doga\Mihelik Tamás Doga\obj\Debug\net6.0\ref\Mihelik Tamás Doga.dll
